@@ -1,0 +1,115 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+env/
+venv/
+ENV/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Pyre type checker
+.pyre/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyright
+pyrightconfig.json
+
+# Environments
+.env
+.env.*
+*.env
+
+# Logs
+*.log
+
+# Data files (optional — depending on your workflow)
+*.csv
+*.tsv
+*.data
+*.dat
+*.npz
+*.npy
+*.h5
+*.hdf5
+*.joblib
+*.pkl
+*.pickle
+*.model
+*.weights
+*.ckpt
+
+# TensorBoard logs
+logs/
+tensorboard_logs/
+
+# Matplotlib and plotly
+*.png
+*.jpg
+*.jpeg
+*.svg
+*.pdf
+*.eps
+
+# MLflow
+mlruns/
+
+# DVC
+.dvc/
+*.dvc
+.cache/
+
+# Docker
+*.dockerfile
+docker-compose.yml
+
+# Jupyter Notebook conversion
+*.nbconvert.ipynb
+
+# System files
+.DS_Store
+Thumbs.db
